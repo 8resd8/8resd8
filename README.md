@@ -1,5 +1,5 @@
 ## Resd
-<div>
+<!-- <div>
   <h3>Main Stacks</h3>
   <img src="https://github.com/8resd8/Ourdoc/blob/main/images/skills/Java.png" width="120"/>
   <img src="https://github.com/8resd8/Ourdoc/blob/main/images/skills/SpringBoot.png" width="120"/>
@@ -18,7 +18,7 @@
   <img src="https://github.com/8resd8/Ourdoc/blob/main/images/skills/AWSEC2.png" width="120"/>
   <img src="https://github.com/8resd8/Ourdoc/blob/main/images/skills/AWSRDS.png" width="120"/>
   <img src="https://github.com/8resd8/Ourdoc/blob/main/images/skills/AWSS3.png" width="120"/>
-</div>
+</div> -->
 
 <h3>Stats</h3>
 
